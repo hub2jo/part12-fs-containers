@@ -1,0 +1,25 @@
+Script started on Sat Oct  3 10:10:38 2026
+[1m[7m%[27m[1m[0m                                                                   
+ 
+
+[0m[27m[24m[Jhub2jo@Johnnys-MacBook-Pro part12-fs-containers % [K[?2004hddocker run -it ubu 
+[Kn
+ntu bash[?2004l
+
+[?2004h]0;root@3d98d5202d95: /root@3d98d5202d95:/# mkdir /usr/src/app
+[?2004l
+[?2004h]0;root@3d98d5202d95: /root@3d98d5202d95:/# touch /usr r/src/app/index.js
+[?2004l
+[?2004h]0;root@3d98d5202d95: /root@3d98d5202d95:/# [Kls /usr/src/app
+[?2004l
+index.js
+[?2004h]0;root@3d98d5202d95: /root@3d98d5202d95:/# exit
+[?2004l
+exit
+[1m[7m%[27m[1m[0m                                                                   
+ 
+
+[0m[27m[24m[Jhub2jo@Johnnys-MacBook-Pro part12-fs-containers % [K[?2004heexit[?2004l
+
+
+Script done on Sat Oct  3 10:18:47 2026

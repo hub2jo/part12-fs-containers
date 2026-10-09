@@ -12,3 +12,5 @@ services:
     environment:
       - VITE_BACKEND_URL=http://localhost:3000
     container_name: todo-frontend-dev
+  debug-helper:
+    image: busybox
